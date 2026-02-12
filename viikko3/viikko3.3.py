@@ -15,3 +15,6 @@ elif sukupuoli == "Mies" and hemoglobiiniarvo < 134 :
     print("Hemoglobiinisi on matala")
 
 
+
+
+
